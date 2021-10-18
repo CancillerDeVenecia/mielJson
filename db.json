@@ -9,7 +9,7 @@
         "pictureUrl": "https://i.imgur.com/BmF0CNq.jpeg",
         "price" : "$465", 
         "description": "La mejor miel agroecológica del mercado",
-        "description-long": "900g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas!"
+        "description_long": "900g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas!"
     },
 
     {
@@ -18,7 +18,7 @@
         "pictureUrl": "https://i.imgur.com/BmF0CNq.jpeg",
         "price" : "$270",
         "description": "La mejor miel agroecológica del mercado",
-        "description-long": "500g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas!"
+        "description_long": "500g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas!"
 
     },
 
@@ -28,7 +28,7 @@
         "pictureUrl": "https://i.imgur.com/BmF0CNq.jpeg",
         "price" : "$160", 
         "description": "La mejor miel agroecológica del mercado",
-        "description-long": "250g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas. Chequea tambien las presentaciones de 600 y 900 gramos, porque te vas a quedar con ganas de mas!"
+        "description_long": "250g de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas. Chequea tambien las presentaciones de 600 y 900 gramos, porque te vas a quedar con ganas de mas!"
 
     },
 
@@ -38,7 +38,7 @@
         "pictureUrl": "https://i.imgur.com/aKfWzbi.jpeg",
         "price" : "$5.200", 
         "description": "La mejor miel agroecológica del mercado",
-        "description-long": "12 kilos y medio de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Ideal para quienes la usan para emprendimientos culinarios, o para los que piensan hibernar fuerte. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas! Si excede la cantidad que necesitás, chequeá tambien la presentación de 6 kilos."
+        "description_long": "12 kilos y medio de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Ideal para quienes la usan para emprendimientos culinarios, o para los que piensan hibernar fuerte. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas! Si excede la cantidad que necesitás, chequeá tambien la presentación de 6 kilos."
     },
 
     {
@@ -47,7 +47,7 @@
         "pictureUrl": "https://i.imgur.com/oNMnwO7.jpeg",
         "price" : "$2.650",
         "description": "La mejor miel agroecológica del mercado",        
-        "description-long": "12 kilos y medio de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Ideal para quienes la usan para emprendimientos culinarios, o para los que piensan hibernar fuerte. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas. Si vas a necesitar mas de una unidad, chequeá tambien la presentación de 12 kilos y medio, que viene con descuento!."
+        "description_long": "12 kilos y medio de miel pura, agroecológica, hecha en nuestras granjas de apicultura en Bavio, La Plata. Ideal para quienes la usan para emprendimientos culinarios, o para los que piensan hibernar fuerte. Las abejas son tratadas con todo el amor que merecen, y ponemos especial enfasis, a su vez, en hacer una previa selección del producto para que llegue la mejor miel a sus casas. Si vas a necesitar mas de una unidad, chequeá tambien la presentación de 12 kilos y medio, que viene con descuento!."
     }
 
 ] }
